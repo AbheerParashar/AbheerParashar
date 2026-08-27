@@ -1,8 +1,11 @@
 # Hi, I'm Abheer Parashar 👋
 
+### Diploma Student — Electrical Engineering | D.N. Polytechnic, Meerut
 ### Hardware-first engineer building toward autonomous systems.
 
-I'm an Electrical Engineering student interested in the intersection of **electric powertrains, embedded systems, robotics and autonomous systems**.
+> Hardware → Embedded → Mechatronics → Robotics → Autonomy
+
+> **I am an Electrical Engineering diploma student interested in the intersection of electric powertrains, embedded systems, mechatronics, robotics and autonomous systems.**
 
 I learn best by building things physically, breaking them, understanding why they failed, and iterating until the system works.
 
