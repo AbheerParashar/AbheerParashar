@@ -40,6 +40,6 @@ for India.
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/abheerparashar)
+[LinkedIn](https://www.linkedin.com/in/abheer-parashar-752b9338a/)
 
 *Service Before Self.*
