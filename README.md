@@ -1,16 +1,45 @@
-## Hi there 👋
+# Abheer Parashar
 
-<!--
-**AbheerParashar/AbheerParashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electromechanical Systems Engineer in Training**
+1st Year Electrical Engineering | D.N. Polytechnic, Meerut
+Builder of Airaavat-V1 | Founder-in-progress, Airaavat Defence & Mobility
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+
+I design and build autonomous electromechanical systems.
+Currently developing **Airaavat-V1** — an autonomous UGV
+(Unmanned Ground Vehicle) with closed-loop motor control,
+obstacle avoidance, and autonomous navigation capability.
+
+Long-term objective: Airaavat Defence, Mobility and Energy
+Systems Ltd. — indigenous defence and mobility technology
+for India.
+
+---
+
+## Technical Stack (Active Learning)
+
+- Embedded Systems: Arduino, STM32 (in progress)
+- Motor Control: DC motors, H-bridge, PWM, encoder feedback
+- Electronics: Digital circuits, logic design, analog basics
+- Design: Engineering Drawing, SolidWorks (in progress)
+- Languages: C (learning), Python (learning)
+- Mathematics: JEE Advanced level — Calculus, Algebra, ODE
+
+---
+
+## Currently
+
+- Airaavat-V1: Concept → Motor control phase
+- NPTEL: Basic Electrical Engineering + Engineering Mathematics
+- Mathematics: Anshul Singhal Sir (Acadza) + Hall & Knight
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/abheerparashar)
+
+*Service Before Self.*
