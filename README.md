@@ -139,7 +139,7 @@ A self-developed, hardware-first UGV, built without a lab or institutional fundi
 
 **In development:** ESP32-based sensor fusion and telemetry (IMU, magnetometer, GPS, ToF/LiDAR), the foundation for **GarudAshwa**, a UGV that launches and recovers its own UAV.
 
-👉 **Full documentation:** [Project-Airaavat repository](https://github.com/AbheerParashar/Airaavat-V2)
+👉 **Full documentation:** [Airaavat-V2 repository](https://github.com/AbheerParashar/Airaavat-V2)
 
 > V2 sensor fusion, ROS 2 integration and GarudAshwa are development goals, not current capabilities.
 
@@ -214,9 +214,9 @@ I am particularly interested in indigenous engineering and in developing the dep
 
 I'm always interested in talking to engineers, builders, researchers, founders and students working on difficult technical problems.
 
-**LinkedIn:** [https://www.linkedin.com/in/abheer-parashar-752b9338a/]
+**LinkedIn:** [Abheer Parashar] (https://www.linkedin.com/in/abheer-parashar-752b9338a/)
 
-**Email:** [amparashar234@gmail.com]
+**Email:** (amparashar234@gmail.com)
 
 **GitHub:** You're already here. :)
 
