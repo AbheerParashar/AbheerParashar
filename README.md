@@ -127,44 +127,21 @@ Autonomous Systems
 
 # 🐘 Project Airaavat
 
-### A hardware-first UGV evolving toward autonomy.
+A self-developed, hardware-first UGV, built without a lab or institutional funding.
 
-**Airaavat-V1** is a functional manually controlled UGV prototype built from the ground up through iterative mechanical, electrical and embedded development.
+**Airaavat-V1** (March–August 2026): manually controlled prototype with an electric chain drivetrain, Ackermann steering, Li-ion power and RF control.
 
-Its purpose was not simply to produce a rover.
+**Airaavat-V2** (October 2026): rebuilt and **ground-tested wirelessly on 7 October 2026**.
+- 20:1 two-stage chain drivetrain (RS-775), rear-wheel drive
+- Servo-driven Ackermann steering
+- Custom Arduino C++ TX/RX firmware: packet validation, joystick deadband, squared throttle curve, soft-start ramp, 500 ms signal-loss failsafe
+- Instability traced to radio acknowledgement current bursts and fixed with a one-way validated link ([case study](https://github.com/AbheerParashar/Project-Airaavat/blob/main/docs/debugging-case-study.md))
 
-The purpose was to answer a much harder question:
+**In development:** ESP32-based sensor fusion and telemetry (IMU, magnetometer, GPS, ToF/LiDAR), the foundation for **GarudAshwa**, a UGV that launches and recovers its own UAV.
 
-> **Can I take an idea, engineer the subsystems, integrate them into one machine, test the machine in the real world, learn from its failures, and make the next revision better?**
+👉 **Full documentation:** [Project-Airaavat repository](https://github.com/AbheerParashar/Project-Airaavat)
 
-Airaavat-V1 is my answer to that question.
-
-### Current → Future
-
-```text
-Airaavat-V1
-Functional UGV
-     │
-     ├── Electric drivetrain
-     ├── Ackermann steering
-     ├── Li-ion power system
-     ├── Embedded control
-     └── Wireless RF control
-              │
-              ▼
-       Airaavat-V2
-              │
-       ├── ESP32
-       ├── IMU
-       ├── Sensor fusion
-       ├── Obstacle detection
-       └── ROS 2 integration
-              │
-              ▼
-     Autonomous UGV Platform
-```
-
-**V2 and future capabilities are development goals, not claims about the current V1 prototype.**
+> V2 sensor fusion, ROS 2 integration and GarudAshwa are development goals, not current capabilities.
 
 ---
 
