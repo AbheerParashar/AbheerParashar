@@ -135,11 +135,11 @@ A self-developed, hardware-first UGV, built without a lab or institutional fundi
 - 20:1 two-stage chain drivetrain (RS-775), rear-wheel drive
 - Servo-driven Ackermann steering
 - Custom Arduino C++ TX/RX firmware: packet validation, joystick deadband, squared throttle curve, soft-start ramp, 500 ms signal-loss failsafe
-- Instability traced to radio acknowledgement current bursts and fixed with a one-way validated link ([case study](https://github.com/AbheerParashar/Project-Airaavat/blob/main/docs/debugging-case-study.md))
+- Instability traced to radio acknowledgement current bursts and fixed with a one-way validated link ([case study](https://github.com/AbheerParashar/Airaavat-V2/blob/main/docs/debugging-case-study.md))
 
 **In development:** ESP32-based sensor fusion and telemetry (IMU, magnetometer, GPS, ToF/LiDAR), the foundation for **GarudAshwa**, a UGV that launches and recovers its own UAV.
 
-👉 **Full documentation:** [Project-Airaavat repository](https://github.com/AbheerParashar/Project-Airaavat)
+👉 **Full documentation:** [Project-Airaavat repository](https://github.com/AbheerParashar/Airaavat-V2)
 
 > V2 sensor fusion, ROS 2 integration and GarudAshwa are development goals, not current capabilities.
 
