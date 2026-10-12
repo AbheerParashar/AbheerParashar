@@ -214,9 +214,9 @@ I am particularly interested in indigenous engineering and in developing the dep
 
 I'm always interested in talking to engineers, builders, researchers, founders and students working on difficult technical problems.
 
-**LinkedIn:** [Abheer Parashar] (https://www.linkedin.com/in/abheer-parashar-752b9338a/)
+**LinkedIn:** [Abheer Parashar](https://www.linkedin.com/in/abheer-parashar-752b9338a/)
 
-**Email:** (amparashar234@gmail.com)
+**Email:** amparashar234@gmail.com
 
 **GitHub:** You're already here. :)
 
